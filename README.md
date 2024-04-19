@@ -1,1 +1,1 @@
-# TechBunny: This is my frist GitHub repo
+# TechBunny: This is my GitHub Repo
